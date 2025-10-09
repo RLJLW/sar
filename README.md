@@ -11,8 +11,10 @@ SAR also has important applications in:
  - Oil spill thickness analysis
  - Crop type analysis
 
-## Flood monitoring during disasters
+## Oil Spill Thickness Analysis
 
 Oil of varying thicknesses can be detected and quantified using SAR data.
 
 An oil covered surface creates different backscatter, to water.  Oil is smoother than water and therefor creates a smoother more reflective surface, appearing darker than water.
+
+
