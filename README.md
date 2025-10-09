@@ -6,9 +6,13 @@ Potential project ideas will also be discussed here in case there is sufficient 
 
 Radar data can be obtained day or night or under cloud which is often the case during floods.
 
-
 SAR also has important applications in:
  - Flood monitoring during disasters 
  - Oil spill thickness analysis
  - Crop type analysis
 
+## Flood monitoring during disasters
+
+Oil of varying thicknesses can be detected and quantified using SAR data.
+
+An oil covered surface creates different backscatter, to water.  Oil is smoother than water and therefor creates a smoother more reflective surface, appearing darker than water.
