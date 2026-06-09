@@ -19,7 +19,8 @@ An oil covered surface creates different backscatter, to water.  Oil is smoother
 
 ## Tools
 
-At this time tools have been produced that are capable of reading NASA UAVSAR files and converting them to images.
+At this time RLJLW has created tools that are capable of reading NASA UAVSAR files locally and converting them to images, for example images of New York city under under different polarizations
+of radar.
 
 ## Current Status of Project
 
