@@ -24,4 +24,4 @@ of radar.
 
 ## Current Status of Project
 
-Note: This project is currently on pause - Awaiting further interest from people interested in funding further development.
+Note: This project is currently on pause - Awaiting further time allocation, interest, or funding.
