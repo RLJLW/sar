@@ -17,4 +17,10 @@ Oil of varying thicknesses can be detected and quantified using SAR data.
 
 An oil covered surface creates different backscatter, to water.  Oil is smoother than water and therefor creates a smoother more reflective surface, appearing darker than water.
 
+## Tools
 
+At this time tools have been produced that are capable of reading NASA UAVSAR files and converting them to images.
+
+## Current Status of Project
+
+Note: This project is currently on pause - Awaiting further interest from people interested in funding further development.
